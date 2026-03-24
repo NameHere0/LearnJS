@@ -24,27 +24,9 @@
 
 // === TASK 1: Variables ===
 // Declare your variables below:
-var integer;
-integer = 5;
-
-let intege;
-intege = 1;
-
-const integ = 0; // constant
 
 // === TASK 2: Type Checking ===
 // Use typeof to check types:
-typeof integer;
 
 // === TASK 3: Type Conversion ===
 // Convert between types:
-
-let int = 5;
-let string = "1";
-
-console.log(String(integer));
-console.log(Number(string));
-console.log(Boolean("Hello")); // True - is not empty
-console.log(Boolean("")); // False - is empty
-
-// COMPLETE
